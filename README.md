@@ -42,18 +42,26 @@ code together.
 
 *Services to help you run your tests against your code.*
 
-* Travis CI
-* CircleCI
+* [Travis CI](https://travis-ci.org/) - Test and deploy your code with
+confidence.
+* [CircleCI](https://circleci.com/) - Ship better code, faster.
 
 ## cloud hosting
 
 *Services to host services (very meta).*
 
-* Amazon Web Services
-* Google Cloud Computing
-* Microsoft Azure
-* DigitalOcean
-* Heroku
+* [Amazon Web Services](https://aws.amazon.com/) - Reliable, scalable,
+and inexpensive cloud computing services.
+* [Google Cloud Computing](https://cloud.google.com/) - A set of modular
+cloud-based services that allow you to create anything from simple websites
+to complex applications.
+* [Microsoft Azure](https://azure.microsoft.com/) -  An open, flexible,
+enterprise-grade cloud computing platform. Move faster, do more, and save
+money with IaaS + PaaS.
+* [DigitalOcean](https://www.digitalocean.com/) - Simple Cloud Infrastructure,
+built for Developers.
+* [Heroku](https://www.heroku.com/) - A platform as a service (PaaS) that
+enables developers to build and run applications entirely in the cloud.
 
 ## static site hosting
 
