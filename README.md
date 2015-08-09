@@ -67,76 +67,92 @@ enables developers to build and run applications entirely in the cloud.
 
 *Services to host static websites, because sometimes that's all you need*
 
-* GitHub
-* Divshot
+* [GitHub Pages](https://pages.github.com/) - Websites hosted directly from
+your GitHub repositories.
+* [Divshot](https://divshot.com/) - One platform for static web hosting
+and Bootstrap Builder for single page apps.
 
 ## task management
 
 *Services to help manage projects and tasks.*
 
-* Trello
-* Asana
-* Basecamp
+* [Trello](https://trello.com/) - Trello is the free, flexible, and visual
+way to organize anything with anyone.
+* [Asana](https://asana.com/) - Teamwork without email.
+* [Basecamp](https://basecamp.com/) - Basecamp keeps people on same page
+so no matter what your role is, everyone works toward a common goal:
+finishing a project together.
 
 ## team communication
 
 *Services to enable teams to communicate better.*
 
-* Slack
-* HipChat
+* [Slack](https://slack.com/) - A messaging app for teams.
+* [HipChat](https://www.hipchat.com/) - Group and private chat, file sharing,
+and integrations.
 
 ## site monitoring
 
 *Services to monitor the static of your sites.*
 
-* Pingdom
+* [Pingdom](https://www.pingdom.com/) - Website monitoring made easy.
 
 ## cloud monitoring
 
 *Services to to monitor and analyze applications and infrastructure.*
 
-* New Relic
-* Datadog
-* AppNeta
+* [New Relic](http://newrelic.com/) - A software analytics tool suite use
+by developers, ops, and software companies to understand how your
+applications are performing
+* [Datadog](https://www.datadoghq.com/) - Cloud monitoring as a service.
+* [AppNeta](http://www.appneta.com/) - Appneta's award-winning suite of
+application performance management tools ensure optimized web app,
+SaaS app and end-user monitoring.
 
 ## incident management
 
 *Services to help manage outages and other incidents.*
 
-* PagerDuty
+* [PagerDuty](https://www.pagerduty.com/) - PagerDuty provides alerting,
+on-call scheduling, escalation policies and incident tracking to increase
+uptime of your apps, servers, websites and databases.
 
 ## log management
 
 *Services to help you manage, search, and store logs.*
 
-* Papertrail
-* loggly
-* Splunk
+* [Papertrail](https://papertrailapp.com/) - Cloud-hosted log management.
+* [loggly](https://www.loggly.com/) - Cloud log managment services.
+* [Splunk](http://www.splunk.com/) - Splunk Inc. provides the leading platform
+for Operational Intelligence. Customers use Splunk to search, monitor,
+analyze and visualize machine data.
 
 ## voice and sms
 
 *Services to help build applications using voice, video, and messaging.*
 
-* [twilio](https://www.twilio.com/)
+* [twilio](https://www.twilio.com/) - Power modern communications.
+Build the next generation of voice and SMS applications.
 
 ## status pages
 
 *Services to help build application status pages.*
 
-* StatusPage.io
-
+* [StatusPage.io](https://www.statuspage.io/) - StatusPage.io is the best
+way for web infrastructure, developer API, and SaaS companies to get set
+up with their very own status page in minutes.
 
 ## help desk
 
 *Services to help you help your users and customers.*
 
-* Groove HQ
+* [Groove HQ](https://www.groovehq.com/) - Simple online help desk software.
 
 ## sales
 
 *Services to help you track and close sales.*
 
-* Close.io
+* [Close.io](http://close.io/) - An efficient CRM.
 
 ---
 
